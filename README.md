@@ -10,7 +10,7 @@ I'll turn this into something much smarter soon
 
 ## Install
 
-just got clone this, run `npm install` then `node bin/bot`
+`git clone` this, run `npm install` then `node bin/bot`
 
 Go get [the database of Chuck Norris jokes](https://github.com/lmammino/norrisbot/blob/v1.0.0/data/norrisbot.db?raw=true) and put it into the `data/` folder as a file called `norris_jokes.db`
 
