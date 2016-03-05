@@ -1,0 +1,27 @@
+{
+  "name": "jobbies",
+  "version": "0.0.1",
+  "description": "A skill matching job-bot for Slack",
+  "main": "lib/jobbies.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davesag/jobbies.git"
+  },
+  "keywords": [
+    "slack-bot",
+    "sandpit"
+  ],
+  "author": "Dave Sag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davesag/jobbies/issues"
+  },
+  "homepage": "https://github.com/davesag/jobbies#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
